@@ -1,0 +1,18 @@
+git config --global user.name "Esteban Cabrera"
+git config --global user.email "u202014600@upc.$ cd E:
+cd E:
+cd ihc
+cd semana 10
+
+git clone https://github.com/jre20231/ihccc34.git
+git clone https://github.com/jre20231/ihccc34
+
+cd ihccc34/
+
+// añadiendo elementos
+git add -all
+git commit m "mensaje de cambio"
+git push
+
+//actualizando los elementos obtenidos el repositorio en lína(GitHub)
+git pull
