@@ -1,5 +1,5 @@
-git config --global user.name "Esteban Cabrera"
-git config --global user.email "u202014600@upc.$ cd E:
+git config --global user.name "Nombre"
+git config --global user.email "correo"
 cd E:
 cd ihc
 cd semana 10
